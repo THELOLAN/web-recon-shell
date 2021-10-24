@@ -23,7 +23,7 @@ $ ./web-recon.sh -h
 $ ./web-recon.sh -d domain_name
 ```
 
-![web-recon_demo](https://user-images.githubusercontent.com/57167283/94853961-cb029580-0449-11eb-8dbe-d98d1bb29275.gif)
+
 
 ### To check for clickjacking vulnerability
 
